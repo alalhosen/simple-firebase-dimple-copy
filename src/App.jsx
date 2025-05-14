@@ -6,7 +6,7 @@ function App() {
     <>
      
       <h1>Simple Firebase Dimple copy</h1>
-      
+      <button>Login With Google</button>
      
     </>
   )
