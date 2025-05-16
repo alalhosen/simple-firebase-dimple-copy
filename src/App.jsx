@@ -21,6 +21,7 @@ signInWithPopup(auth,googleProvider)
       <h1>Simple Firebase Dimple copy</h1>
       <button onClick={handleGoogleSignIn}>Login With Google</button>
       <button>Login With Github</button>
+      <button>Submit</button>
     {
       user && <div>
         <h3>User: {user.displayName}</h3>
